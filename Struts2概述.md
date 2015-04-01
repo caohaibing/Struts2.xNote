@@ -11,6 +11,7 @@ Struts2是一个流行且成熟的基于MVC架构的web应用程序框架。Stru
 - **易于修改标签：**
 - **逐渐减少配置：**约定大于配置
 - **视图层技术：**JSP、Freemarker、Velocity、XSLT
+
 #####Strust2的缺点
 - **更陡峭的学习曲线：**JSP、Servlet等
 - **文档不丰富：**官方文档较少
